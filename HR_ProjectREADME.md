@@ -6,7 +6,7 @@ This Power BI project provides insights into various aspects of HR management, i
 Insights Covered
 Working Preferences: Analyzes the preferred working arrangements of employees.
 Attendance: Tracks employee attendance data.
-Sick Leave Analysis: Identifies reasons for sick leave and analyzes sick leave patterns over different periods.
+Sick Leave Analysis: analyzes sick leave patterns over different periods.
 Automation of Data Updating
 Some of the following transformations are applied:
 
