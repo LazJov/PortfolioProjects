@@ -1,0 +1,27 @@
+Data Survey Project Overview
+
+The goal of this project was to delve into the landscape of the data analytics industry by analyzing insights gathered from individuals working within this domain.
+
+Survey Project Power BI
+
+In this project, real survey data was utilized to construct a range of informative visualizations, shedding light on various aspects of the data analytics profession, including:
+
+- Geographical Distribution: An examination of the locations of survey participants.
+- Salary Analysis by Job Title: A comparison of average salaries across different job titles within the industry.
+- Preferred Programming Languages: Insights into the programming languages most commonly favored by professionals in the field.
+- Challenges in Entering Data Analytics: An exploration of the perceived difficulty of breaking into the data analytics sector.
+- Job Satisfaction: Analysis of respondents' happiness levels regarding their salaries and work-life balance.
+- Demographic Insights: An overview of the average age of survey participants and the overall count of respondents.
+
+Data Transformation Techniques
+
+Power Query was instrumental in the transformation and refinement of the survey data. Various techniques were employed, including:
+
+- Column Removal: Eliminating unnecessary columns to streamline the dataset.
+- Delimiter-based Column Splitting: Dividing columns based on specified delimiters to extract relevant information.
+- Duplicate Column Identification: Identifying and handling duplicate columns to maintain data integrity.
+- Numeric and Non-numeric Column Splitting: Separating columns based on digit and non-digit components for further analysis.
+- Data Value Replacement: Substituting values within columns to ensure consistency and accuracy.
+- Custom Column Creation: Generating a new column, such as "Average Salary," using custom formulas to derive additional insights from the data.
+
+This project not only provided valuable insights into the data analytics industry but also showcased the power of data visualization and manipulation techniques in Power BI to derive actionable intelligence from raw survey data.
